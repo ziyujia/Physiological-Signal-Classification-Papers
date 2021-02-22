@@ -426,7 +426,7 @@ We conduct the overall statistical analysis of all papers in this list. Here we 
 | Heart beat classification                            | Patient-specific  deep architectural model for ecg classification |               DNN                |          J.  Healthcare Eng.           | 2017 |
 | Heart beat classification                            | A  deep convolutional neural network model to classify heartbeats |               CNN                |          Comput.  Biol. Med.           | 2017 |
 | Heart beat classification                            | Real-time  patient-specific ecg classification by 1-d convolutional neural networks |               CNN                |       IEEE  Trans. Biomed. Eng.        | 2016 |
-| Arrhythmia classification                            | Robust  greedy deep dictionary learning for ecg arrhythmia classification | Robust deep  dictionary learning |                 IJCNN                  | 2017 |
+| Arrhythmia classification                            | Robust  greedy deep dictionary learning for ecg arrhythmia classification | Robust deep dictionary learning  |                 IJCNN                  | 2017 |
 | Arrhythmia classification                            | Automated  detection of arrhythmias using different intervals of tachycardia ecg  segments with convolutional neural network |               CNN                |               Inf.  Sci.               | 2017 |
 | Coronary artery disease detection                    | Automated  identification of shockable and non-shockable life-threatening ventricular  arrhythmias using convolutional neural network |               CNN                |      Future  Gener. Comput. Syst.      | 2017 |
 | Coronary artery disease detection                    | Time  series classification using multi-channels deep convolutional neural networks |               CNN                |                  WAIM                  | 2014 |
@@ -663,3 +663,11 @@ We conduct the overall statistical analysis of all papers in this list. Here we 
 ## Acknowledgement
 
 Yuanlai He, Ziyu Jia, and Xiyang Cai collaborated to organize and summarize the above papers.
+
+
+
+## More paper lists
+
+- [Physiological Signal Classification Papers](https://github.com/ziyujia/Physiological-Signal-Classification-Papers)
+- [Sleep Stages Classification Papers](https://github.com/ziyujia/Sleep-Stages-Classification-Papers)
+- [Motor Imagery Papers](https://github.com/ziyujia/Motor-Imagery-Papers)
