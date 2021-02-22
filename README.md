@@ -16,7 +16,7 @@ If you have any suggested papers, please contact me ziyujia{at}bjtu.edu.cn
   - [Electrooculogram (EOG)](#eog)
   - [Combination of signals](#combination-of-signals)
 - [Acknowledgement](#acknowledgement)
-- [More paper lists](#more-paper-lists)
+
 
 
 ## Overall Statistics
@@ -668,6 +668,6 @@ Yuanlai He, Ziyu Jia, and Xiyang Cai collaborated to organize and summarize the 
 
 ## More paper lists
 
-- [Physiological Signal Classification Papers](https://github.com/ziyujia/Physiological-Signal-Classification-Papers)
 - [Sleep Stages Classification Papers](https://github.com/ziyujia/Sleep-Stages-Classification-Papers)
 - [Motor Imagery Papers](https://github.com/ziyujia/Motor-Imagery-Papers)
+- [Emotion Recognition Papers](https://github.com/ziyujia/Emotion-Recognition-Papers)
